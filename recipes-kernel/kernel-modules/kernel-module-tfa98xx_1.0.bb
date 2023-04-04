@@ -12,8 +12,8 @@ SRC_URI = "git://github.com/TechNexion/tfa98xx.git;branch=${SRCBRANCH} \
            https://github.com/nxp-imx-support/meta-avs-demos/tree/imx-alexa-sdk/recipes-kernel/tfa98xx/files/TFA9892N1A_stereo_32FS.cnt;downloadfilename=TFA9892N1A_stereo_32FS.cnt \
 "
 
-SRC_URI[md5sum] = "dc2b2583e0d7a7d31e3c89f59550264c"
-SRC_URI[sha256sum] = "178f3452081b2b5e5e9859de623fdcc1b0d4e0b457e496b0132d98d8d43a6978"
+SRC_URI[md5sum] = "e4046d746b17e40f8353583b4678991f"
+SRC_URI[sha256sum] = "f37408d7c9fe7d308b8202fdbb8f8b0787447007f9694402ea944dff63d20603"
 
 S = "${WORKDIR}/git"
 
